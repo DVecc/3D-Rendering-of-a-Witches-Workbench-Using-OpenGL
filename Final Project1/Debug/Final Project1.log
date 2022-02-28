@@ -1,0 +1,20 @@
+﻿  Final Project.cpp
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(336,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(415,12): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(456,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(457,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(461,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(462,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(464,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(465,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(477,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(890,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(955,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Vincent\source\repos\Final Project1\Final Project.cpp(1020,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  cylinder.cpp
+  staticMesh3D.cpp
+  vertexBufferObject.cpp
+  Generating Code...
+  glad.c
+  Final Project1.vcxproj -> C:\Users\Vincent\source\repos\Final Project1\Debug\Final Project1.exe
